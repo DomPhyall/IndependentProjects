@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="author" content="DomPhyall">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <title>Mockup</title>
+        <link rel="stylesheet" href="style.css">
+        <link href=https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,400&display=swap" rel="stylesheet">
+    </head>
+
+    <body>
+        <header>
+            <div class="container container-flex">
+                <div class="title">
+                    <h1><strong>Nourishful Thinking</strong></h1>
+                        <h3>Inspiring Healthy Thoughts</h3>
+                </div>
+
+                <nav>
+                    <ul>
+                        <li><a class="current-page" href="index.html">HOME</a></li>
+                        <li><a href="about-me.html">ABOUT ME</a></li>
+                        <li><a href="recent-post.html">RECENT POSTS</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+
+        <div class="container container-flex">
+            <main role="main">
+
+                <article class="article-featured">
+                    <img src="greenjuice.jpeg" alt="alkaline food display" class="article-image">
+                    <p class="article-info">August 10, 2020</p>
+                    <h2 class="article-title"><strong>Why Alkaline Foods Are So Important</strong></h2>
+                    <p class="article-body">As a general rule, you can classify foods as either acid-forming or 
+                        alkaline forming. The standard American diet is completely acid-forming, rich in acid-forming
+                        meat, dairy and highly processed foods. Your body’s pH is 7.35, or slightly alkaline. 
+                        Your body constantly seeks balance and works hard to maintain the healthy neutral alkaline zone. 
+                        While the foods you eat cannot change this zone, your body must compensate for a high intake of acid-forming
+                        foods by leaching calcium (an alkalizing mineral) from your bones.</p>
+                </article>
+
+                <article class="article-recent">
+                    <div class="article-recent-main">
+                        <h2 class="article-title"><strong>The Outdoors are Calling....Listen</strong></h2>
+                        <p class="article-body">Your bosy and mind need to ne out side. 
+                            As a general rule, you can classify foods as either acid-forming or 
+                        alkaline forming. The standard American diet is completely acid-forming, rich in acid-forming
+                        meat, dairy and highly processed foods. Your body’s pH is 7.35, or slightly alkaline. 
+                        Your body constantly seeks balance and works hard to maintain the healthy neutral alkaline zone. 
+                        While the foods you eat cannot change this zone, your body must compensate for a high intake of acid-forming
+                        foods by leaching calcium (an alkalizing mineral) from your bones.i will finish all of this later!</p>
+                        <a href="#" class="article-read-more">Continue Reading</a>
+                    </div>
+                    <div class="article-recent-secondary">
+                        <img src="outdoors.jpeg" alt="hiking and happy" class="article-image">
+                        <p class="article-info">September 10, 2020</p>
+                    </div>
+                </article>
+
+                <article class="article-recent">
+                    <div class="article-recent-main">
+                        <h2 class="article-title"><strong> Remedies That Boost Your Immune System</strong></h2>
+                        <p class="article-body">Your bosy and mind need to ne out side.
+                            As a general rule, you can classify foods as either acid-forming or 
+                        alkaline forming. The standard American diet is completely acid-forming, rich in acid-forming
+                        meat, dairy and highly processed foods. Your body’s pH is 7.35, or slightly alkaline. 
+                        Your body constantly seeks balance and works hard to maintain the healthy neutral alkaline zone. 
+                        While the foods you eat cannot change this zone, your body must compensate for a high intake of acid-forming
+                        foods by leaching calcium (an alkalizing mineral) from your bones. i will finish all of this later!</p>
+                        <a href="#" class="article-read-more">Continue Reading</a>
+                    </div>
+                    <div class="article-recent-secondary">
+                        <img src="herbal.jpeg" alt="hiking and happy" class="article-image">
+                        <p class="article-info">September 30, 2020</p>
+                    </div>
+                </article>
+
+                <article class="article-recent">
+                    <div class="article-recent-main">
+                        <h2 class="article-title"><strong>Put Your Mind To Rest</strong></h2>
+                        <p class="article-body">Your bosy and mind need to ne out side. 
+                            As a general rule, you can classify foods as either acid-forming or 
+                        alkaline forming. The standard American diet is completely acid-forming, rich in acid-forming
+                        meat, dairy and highly processed foods. Your body’s pH is 7.35, or slightly alkaline. 
+                        Your body constantly seeks balance and works hard to maintain the healthy neutral alkaline zone. 
+                        While the foods you eat cannot change this zone, your body must compensate for a high intake of acid-forming
+                        foods by leaching calcium (an alkalizing mineral) from your bones.i will finish all of this later!</p>
+                        <a href="#" class="article-read-more">Continue Reading</a>
+                    </div>
+                    <div class="article-recent-secondary">
+                        <img src="meditation.jpeg" alt="hiking and happy" class="article-image">
+                        <p class="article-info">October 15, 2020</p>
+                    </div>
+                </article>
+            </main>
+
+            <aside class="sidebar">
+                <div class="sidebar-widget">
+                    <h2 class="widget-title">About Me</h2>
+                    <div class="widget-recent-post">
+                        <img src="coolbrowngirl.jpeg" alt="beautiful brown cool girl" class="widget-image">
+                        <p>This is will be a section about this blogger.
+                            It will remain short and to the point!</p>
+                    </div>
+                </div>
+
+                
+                <div class="sidebar-widget">
+                    <div class="widget-recent-post">
+                        <h2 class="widget-title">Recent Posts</h2>
+                        <h3 class="widget-recent-post-title">The Health Benefits of Coconut</h3>
+                        <img src="coconut.jpeg" alt="all forms of coconut" class="widget-image">
+                    </div>
+                    <div class="widget-recent-post">
+                        <h3 class="widget-recent-post-title">Thai Flavors for Lunch</h3>
+                        <img src="lunch.jpeg" alt="thai style lunch bowl" class="widget-image">
+                    </div>
+                    <div class="widget-recent-post">
+                        <h3 class="widget-recent-post-title">Everyone Can Use a Little Mindfulness</h3>
+                        <img src="mindfulness.jpeg" alt="a sign to show mindfulness" class="widget-image">
+                    </div>
+                </div>
+            </aside>
+        </div>  
+
+        <footer>
+
+            <p>This has some words inside of it!</p>
+            <p>This does too!</p>
+        
+        </footer>
+        
+        
+
+
+    </body>
+</html>
+
